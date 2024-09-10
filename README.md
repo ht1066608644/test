@@ -1,1 +1,1 @@
-{"apkSize": "36M","downLoadApkUrl": "https://github.com/ht1066608644/test/raw/9cb4763cad2876fa8669e35243b31e3564da3f15/file/app-release-1.0.2.1.apk","isConstraint": true,"tips": "1，优化接口。\r\n2， 添加vip认证。\r\n3， 区分会员级别， 一个小时不限制。\r\n4， 添加放弃任务接口， 小时内不生成。\r\n5， 消费任务手动生成。 ","vsCode": 20240921,"vsName":"1.0.2"}
+{"apkSize": "36M","downLoadApkUrl": "https://github.com/ht1066608644/test/raw/master/file/app-release-v1.0.2.1.apk","isConstraint": true,"tips": "1，优化接口。\r\n2， 添加vip认证。\r\n3， 区分会员级别， 一个小时不限制。\r\n4， 添加放弃任务接口， 小时内不生成。\r\n5， 消费任务手动生成。 ","vsCode": 20240921,"vsName":"1.0.2"}
